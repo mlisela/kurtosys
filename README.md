@@ -1,0 +1,2 @@
+# kurtosys
+Kurtosys exercises
